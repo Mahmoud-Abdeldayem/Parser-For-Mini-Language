@@ -1,0 +1,17 @@
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\bin\Debug\net8.0-windows\UILayer.exe
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\bin\Debug\net8.0-windows\UILayer.deps.json
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\bin\Debug\net8.0-windows\UILayer.runtimeconfig.json
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\bin\Debug\net8.0-windows\UILayer.dll
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\bin\Debug\net8.0-windows\UILayer.pdb
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.InputForm.resources
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.csproj.GenerateResource.cache
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.AssemblyInfoInputs.cache
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.AssemblyInfo.cs
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.csproj.CoreCompileInputs.cache
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.dll
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\refint\UILayer.dll
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.pdb
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.genruntimeconfig.cache
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\ref\UILayer.dll
+D:\FCAI_Level_4_S_1\Concepts_Of_ProgrammingLanguages\Concepts_Project\Parser_For_Mini_Language\UILayer\obj\Debug\net8.0-windows\UILayer.OutPutForm.resources
