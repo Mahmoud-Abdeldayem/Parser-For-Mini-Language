@@ -1,0 +1,12 @@
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\bin\Debug\net8.0\FPImplementation.deps.json
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\bin\Debug\net8.0\FPImplementation.dll
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\bin\Debug\net8.0\FPImplementation.pdb
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.AssemblyInfo.cs
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.sourcelink.json
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.dll
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\refint\FPImplementation.dll
+C:\Users\asus\source\repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\FPImplementation.pdb
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\FPImplementation\obj\Debug\net8.0\ref\FPImplementation.dll

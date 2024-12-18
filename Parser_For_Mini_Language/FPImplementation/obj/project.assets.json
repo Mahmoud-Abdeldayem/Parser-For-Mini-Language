@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mahmoud\\.nuget\\packages\\": {}
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FCAI_Level_4_S_1\\Concepts_Of_ProgrammingLanguages\\Concepts_Project\\Parser_For_Mini_Language\\FPImplementation\\FPImplementation.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Parser-For-Mini-Language\\Parser_For_Mini_Language\\FPImplementation\\FPImplementation.csproj",
       "projectName": "FPImplementation",
-      "projectPath": "D:\\FCAI_Level_4_S_1\\Concepts_Of_ProgrammingLanguages\\Concepts_Project\\Parser_For_Mini_Language\\FPImplementation\\FPImplementation.csproj",
-      "packagesPath": "C:\\Users\\mahmoud\\.nuget\\packages\\",
-      "outputPath": "D:\\FCAI_Level_4_S_1\\Concepts_Of_ProgrammingLanguages\\Concepts_Project\\Parser_For_Mini_Language\\FPImplementation\\obj\\",
+      "projectPath": "C:\\Users\\asus\\Source\\Repos\\Parser-For-Mini-Language\\Parser_For_Mini_Language\\FPImplementation\\FPImplementation.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asus\\Source\\Repos\\Parser-For-Mini-Language\\Parser_For_Mini_Language\\FPImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mahmoud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\bin\Debug\net8.0\My Own Compiler.exe
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\bin\Debug\net8.0\My Own Compiler.deps.json
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\bin\Debug\net8.0\My Own Compiler.runtimeconfig.json
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\bin\Debug\net8.0\My Own Compiler.dll
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\bin\Debug\net8.0\My Own Compiler.pdb
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.AssemblyInfo.cs
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.sourcelink.json
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.dll
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\refint\My Own Compiler.dll
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.pdb
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\My Own Compiler.genruntimeconfig.cache
+C:\Users\asus\source\repos\My Own Compiler\My Own Compiler\obj\Debug\net8.0\ref\My Own Compiler.dll
