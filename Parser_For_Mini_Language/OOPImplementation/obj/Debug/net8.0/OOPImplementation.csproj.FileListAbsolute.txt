@@ -1,0 +1,12 @@
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\bin\Debug\net8.0\OOPImplementation.deps.json
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\bin\Debug\net8.0\OOPImplementation.dll
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\bin\Debug\net8.0\OOPImplementation.pdb
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.AssemblyInfoInputs.cache
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.AssemblyInfo.cs
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.sourcelink.json
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.dll
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\refint\OOPImplementation.dll
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.pdb
+C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\ref\OOPImplementation.dll
