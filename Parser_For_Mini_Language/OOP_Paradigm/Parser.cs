@@ -42,6 +42,12 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
 
         private BaseExpressionSyntax ParseExpression(int parentPrecedence = 0)
         {
+
+            if (Current.SyntaxKind == SyntaxKind.IfToken)
+            {
+                return ParseIfStatement(); // Parse 'if' statement
+            }
+
             var left = ParsePrimaryExpression();
 
             while (true)
@@ -59,6 +65,34 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
 
             return left;
         }
+
+        private BaseExpressionSyntax ParseIfStatement()
+        {
+            // Consume 'if' token
+            Position++;
+            if (Current.SyntaxKind != SyntaxKind.OpenParenthesisToken)
+                throw new Exception("Expected '(' after 'if'");
+
+            Position++; // Skip '('
+            var condition = ParseExpression(); // Parse the condition
+
+            if (Current.SyntaxKind != SyntaxKind.ClosedParenthesisToken)
+                throw new Exception("Expected ')' after condition");
+            Position++; // Skip ')'
+
+            var trueBranch = ParseExpression(); // Parse the true branch (expression or block)
+            BaseExpressionSyntax falseBranch = null;
+
+            // Check for optional 'else'
+            if (Current.SyntaxKind == SyntaxKind.ElseToken)
+            {
+                Position++; // Skip 'else'
+                falseBranch = ParseExpression(); // Parse the false branch
+            }
+
+            return new IfSyntaxExpression(condition, trueBranch, falseBranch);
+        }
+
 
         private BaseExpressionSyntax ParsePrimaryExpression()
         {
