@@ -1,7 +1,12 @@
-﻿namespace Parser_For_Mini_Language.OOP_Paradigm
+﻿using OOP_Paradigm;
+using System;
+
+namespace Parser_For_Mini_Language.OOP_Paradigm
 {
     internal class Program
     {
+        private static Dictionary<string, int> variables = new Dictionary<string, int>();
+
         static void Main(string[] args)
         {
             while (true)
@@ -66,6 +71,12 @@
                 Console.WriteLine(new string(' ', indent) + unary.OperatorToken.Text);
                 PrintSyntaxTree(unary.Operand, indent + 2); // Print the operand
             }
+            else if (syntaxNode is AssignmentSyntaxExpression assignment)
+            {
+                Console.WriteLine(new string(' ', indent) + "=");
+                Console.WriteLine(new string(' ', indent) + assignment.VariableToken.Text);
+                PrintSyntaxTree(assignment.Right, indent + 2); // Print the right-hand side expression
+            }
             else
             {
                 Console.WriteLine(new string(' ', indent) + "Unknown node");
@@ -108,6 +119,14 @@
                     SyntaxKind.MinusToken => -operandValue,
                     _ => throw new Exception($"Unexpected unary operator: {unary.OperatorToken.SyntaxKind}")
                 };
+            }
+            else if (syntaxNode is AssignmentSyntaxExpression assignment)
+            {
+                // Evaluate the right-hand side of the assignment expression
+                var value = EvaluateExpression(assignment.Right);
+                // Store the value in the symbol table
+                variables[assignment.VariableToken.Text] = value;
+                return value;
             }
             else
             {

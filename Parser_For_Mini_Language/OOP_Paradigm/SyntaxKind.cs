@@ -14,6 +14,9 @@
         EndOfFile,
         NumberExpression,
         BinaryExpression,
-        UnaryExpression
+        UnaryExpression,
+        EqualsToken,
+        IdentifierToken,
+        AssignmentExpression
     }
 }
