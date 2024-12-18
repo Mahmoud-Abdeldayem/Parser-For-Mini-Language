@@ -17,9 +17,13 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
                     { '/', SyntaxKind.DivisionToken },
                     { '(', SyntaxKind.OpenParenthesisToken },
                     { ')', SyntaxKind.ClosedParenthesisToken },
-                    { '=', SyntaxKind.EqualsToken }
+                    { '=', SyntaxKind.EqualsToken },
                 };
-
+        private static readonly Dictionary<string, SyntaxKind> _keywords = new()
+{
+                    { "if", SyntaxKind.IfToken },
+                    { "else", SyntaxKind.ElseToken }
+};
 
         private readonly string _text;
         private  int _position;

@@ -128,6 +128,20 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
                 variables[assignment.VariableToken.Text] = value;
                 return value;
             }
+            else if (syntaxNode is IfSyntaxExpression ifExpr)
+            {
+                var conditionValue = EvaluateExpression(ifExpr.Condition);
+                if (conditionValue != 0) // If condition is true (non-zero)
+                {
+                    return EvaluateExpression(ifExpr.TrueBranch);
+                }
+                else if (ifExpr.FalseBranch != null)
+                {
+                    return EvaluateExpression(ifExpr.FalseBranch);
+                }
+                return 0; // If false and no 'else' branch
+            }
+
             else
             {
                 throw new Exception("Unknown expression type");

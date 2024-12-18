@@ -17,6 +17,9 @@
         UnaryExpression,
         EqualsToken,
         IdentifierToken,
-        AssignmentExpression
+        AssignmentExpression,
+        IfToken,
+        ElseToken,
+        IfExpression
     }
 }
