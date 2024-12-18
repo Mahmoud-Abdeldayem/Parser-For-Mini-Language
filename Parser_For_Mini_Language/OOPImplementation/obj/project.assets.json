@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {}
+    "C:\\Users\\asemy\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\Parser-For-Mini-Language\\Parser_For_Mini_Language\\OOPImplementation\\OOPImplementation.csproj",
+      "projectUniqueName": "C:\\Users\\asemy\\OneDrive\\Desktop\\ConceptsParser\\Parser_For_Mini_Language\\OOPImplementation\\OOPImplementation.csproj",
       "projectName": "OOPImplementation",
-      "projectPath": "C:\\Users\\asus\\Source\\Repos\\Parser-For-Mini-Language\\Parser_For_Mini_Language\\OOPImplementation\\OOPImplementation.csproj",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Source\\Repos\\Parser-For-Mini-Language\\Parser_For_Mini_Language\\OOPImplementation\\obj\\",
+      "projectPath": "C:\\Users\\asemy\\OneDrive\\Desktop\\ConceptsParser\\Parser_For_Mini_Language\\OOPImplementation\\OOPImplementation.csproj",
+      "packagesPath": "C:\\Users\\asemy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\asemy\\OneDrive\\Desktop\\ConceptsParser\\Parser_For_Mini_Language\\OOPImplementation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asemy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

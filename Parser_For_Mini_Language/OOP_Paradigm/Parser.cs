@@ -1,4 +1,5 @@
 ﻿
+using OOP_Paradigm;
 using System;
 using System.Collections.Generic;
 
@@ -8,6 +9,8 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
     {
         private int Position { get; set; }
         private List<SyntaxToken> tokens = new List<SyntaxToken>();
+        private Dictionary<string, int> variables = new Dictionary<string, int>(); // Symbol table for variables
+
 
         public Parser(string text)
         {
@@ -59,6 +62,30 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
 
         private BaseExpressionSyntax ParsePrimaryExpression()
         {
+
+            if (Current.SyntaxKind == SyntaxKind.IdentifierToken) // Handle variable usage
+            {
+                var identifier = Current;
+                Position++;
+
+                if (Current.SyntaxKind == SyntaxKind.EqualsToken) // Handle assignment
+                {
+                    Position++; // Skip '='
+                    var right = ParseExpression(); // Parse the right-hand side expression
+
+                    var variableToken = new SyntaxToken(identifier.Position, identifier.Text, null, SyntaxKind.IdentifierToken);
+
+                    return new AssignmentSyntaxExpression(variableToken, right);
+                }
+
+                // Handle identifier as a variable reference
+                if (variables.ContainsKey(identifier.Text))
+                    return new NumberSyntaxExpression(new SyntaxToken(0, variables[identifier.Text].ToString(), variables[identifier.Text], SyntaxKind.NumberToken));
+
+                throw new Exception($"Undefined variable: {identifier.Text}");
+            }
+
+
             // Handle Unary Operators (e.g., -5 or +3)
             if (Current.SyntaxKind == SyntaxKind.MinusToken || Current.SyntaxKind == SyntaxKind.PluseToken)
             {

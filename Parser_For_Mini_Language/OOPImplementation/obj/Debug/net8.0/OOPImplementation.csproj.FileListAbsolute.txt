@@ -10,3 +10,15 @@ C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOP
 C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\refint\OOPImplementation.dll
 C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.pdb
 C:\Users\asus\Source\Repos\Parser-For-Mini-Language\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\ref\OOPImplementation.dll
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\bin\Debug\net8.0\OOPImplementation.deps.json
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\bin\Debug\net8.0\OOPImplementation.dll
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\bin\Debug\net8.0\OOPImplementation.pdb
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.AssemblyInfoInputs.cache
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.AssemblyInfo.cs
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.csproj.CoreCompileInputs.cache
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.sourcelink.json
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.dll
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\refint\OOPImplementation.dll
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\OOPImplementation.pdb
+C:\Users\asemy\OneDrive\Desktop\ConceptsParser\Parser_For_Mini_Language\OOPImplementation\obj\Debug\net8.0\ref\OOPImplementation.dll

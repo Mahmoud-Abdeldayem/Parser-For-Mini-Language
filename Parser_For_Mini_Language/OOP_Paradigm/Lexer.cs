@@ -17,6 +17,7 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
                     { '/', SyntaxKind.DivisionToken },
                     { '(', SyntaxKind.OpenParenthesisToken },
                     { ')', SyntaxKind.ClosedParenthesisToken },
+                    { '=', SyntaxKind.EqualsToken }
                 };
 
 
@@ -71,6 +72,15 @@ namespace Parser_For_Mini_Language.OOP_Paradigm
                 var text = _text.Substring(start, _position - start);
                 int.TryParse(text, out var value);
                 return new SyntaxToken(start, text, value, SyntaxKind.NumberToken);
+            }
+
+            if (char.IsLetter(Current))
+            {
+                var start = _position;
+                while (char.IsLetterOrDigit(Current))
+                    Next();
+                var text = _text.Substring(start,_position - start);
+                return new SyntaxToken(start,text,null,SyntaxKind.IdentifierToken);
             }
 
             //Handle operators and parentheses
